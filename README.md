@@ -12,4 +12,4 @@ rm [-f | -i] [-dPRrvW] file
 
 
 qemu: 
-Clone the IAP 6.828 QEMU git repository git clone https://github.com/mit-pdos/6.828-qemu.git qemu
+Clone the IAP 6.828 QEMU git repository `git clone https://github.com/mit-pdos/6.828-qemu.git qemu`
